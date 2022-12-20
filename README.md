@@ -1,0 +1,1 @@
+# redstore-web-template
